@@ -84,7 +84,7 @@ def codeforce():
 		label7=Label(win,text="Max Rank="+str(maxrank1),pady=20,width=100,fg="green")
 		label7.grid(row=3,column=0)
 
-		label8=Label(win,text="Max Rank="+str(maxrank1),pady=20,width=100,fg="green")
+		label8=Label(win,text="Max Rank="+str(maxrank2),pady=20,width=100,fg="green")
 		label8.grid(row=3,column=3)
         
         
